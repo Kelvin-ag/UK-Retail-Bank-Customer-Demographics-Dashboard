@@ -16,7 +16,7 @@ An interactive **Tableau** dashboard exploring a UK retail bank's customer base 
 ![Scotland](screenshots/04_scotland.png)
 
 **Northern Ireland selected**
-![Northern Ireland](screenshots/05_northern_ireland.png)
+![Northern Ireland](screenshots/05_nothern_ireland.png)
 
 **Wales selected**
 ![Wales](screenshots/06_wales.png)
