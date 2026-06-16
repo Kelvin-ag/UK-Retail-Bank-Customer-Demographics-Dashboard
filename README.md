@@ -21,7 +21,7 @@ An interactive **Tableau** dashboard exploring a UK retail bank's customer base 
 **Wales selected**
 ![Wales](screenshots/06_wales.png)
 
-🔗 **[View the live dashboard on Tableau Public](#)**
+🔗 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/mozi.agara/viz/CustomerSegmentationUK_17748335502880/CustomerSegmentation)**
 
 ---
 
